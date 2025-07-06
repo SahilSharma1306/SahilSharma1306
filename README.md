@@ -33,7 +33,7 @@
 
 ## 📜 Certifications
 
-- 📘 Coursera: [Mathematics for Machine Learning and Data Science – Andrew Ng (3-course series)](https://coursera.org)
+- 📘 Coursera: Mathematics for Machine Learning and Data Science – Andrew Ng (3-course series)
 - 🧠 NPTEL: Data Structures and Algorithms (Java) – IIT KGP (Elite-Silver, 76%)  
 - 📊 NPTEL: Introduction to ML – IIT M (Elite-Top 5%, 70%)
 
@@ -42,7 +42,6 @@
 ## 📫 Let's Connect!
 
 - 📧 Email: sahilsharma130605@gmail.com  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sahilsharma1306/)
 - 🔗 GitHub: [SahilSharma1306](https://github.com/SahilSharma1306)
 
 ---
