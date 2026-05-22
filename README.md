@@ -91,6 +91,18 @@ Interrupt-driven PWM waveform generator with live UART serial control.
 
 ---
 
+### 🔜 What's Next
+<sub>**Always building...**</sub>
+
+Currently exploring:
+
+- ✦ Custom RISC-V accelerators for inference
+- ✦ Efficient attention mechanisms
+- ✦ Hardware-software co-design for edge AI
+- ✦ Quantization & model compression
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
