@@ -75,15 +75,15 @@ AI-powered ADHD screening system using raw EEG signals. **IBM Z Datathon** submi
 </td>
 <td width="50%" valign="top">
 
-#### 🔜 What's Next
-<sub>**Always building...**</sub>
+#### 🎛️ [8051 PWM DAC Controller](https://github.com/SahilSharma1306/8051-pwm-dac-controller)
+<sub>**8051 Assembly · Hardware Interfacing**</sub>
 
-Currently exploring:
+Interrupt-driven PWM waveform generator with live UART serial control.
 
-- ✦ Custom RISC-V accelerators for inference
-- ✦ Efficient attention mechanisms
-- ✦ Hardware-software co-design for edge AI
-- ✦ Quantization & model compression
+- ✦ 100 Hz Software PWM via Timer 0
+- ✦ 8-bit DAC Bipolar Output (±2V)
+- ✦ Real-time UART control (9600 baud)
+- ✦ Bare-metal 8051 assembly
 
 </td>
 </tr>
